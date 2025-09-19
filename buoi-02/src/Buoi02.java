@@ -223,7 +223,6 @@ public class Buoi02 {
 
             // i++;
         } while (i != 10);
-
     }
 
 }
